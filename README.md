@@ -1,5 +1,7 @@
 # Shopoo
 ![Preview](/icon.png)
+
+
 Shopoo is a mobile application developed using Flutter, catering specifically to grocery store owners. It serves as an admin application, providing a convenient platform for owners to manage their grocery store inventory and related information. Shopoo is designed to work seamlessly on both Android and iOS devices, ensuring a wide reach for users.
 
 Key Features of Shopoo:
@@ -19,6 +21,10 @@ Key Features of Shopoo:
 7. Multi-language support
 
 Please note that as Shopoo is a customized application developed for a specific client, sharing the source code may not be feasible due to confidentiality and intellectual property reasons. However, the provided description outlines the key functionalities and features of the application.
+
+
+
+## feel free to contact us : https://wa.me/21654120687 or chahedmoetaz@gmail.com
 
 
 ## Photos
